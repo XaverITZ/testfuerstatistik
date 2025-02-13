@@ -3,7 +3,7 @@ Title: What the Package Does (One Line, Title Case)
 Version: 0.0.0.9000
 Authors@R: 
     person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: Hallo Jo das ist ein test für die statistikklausur. Hier könnte ich alles was ich will reinschreiben und so ganz toll cheaten.
+Description: Hallo Lydie das ist ein test für die statistikklausur. Hier könnte ich alles was ich will reinschreiben und so ganz toll cheaten.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
